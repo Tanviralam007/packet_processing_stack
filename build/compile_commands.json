@@ -1,0 +1,20 @@
+[
+{
+  "directory": "G:/networking/packet_processing/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/PacketProcessingStack.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\PacketProcessingStack.dir\\src\\main.cpp.obj -c G:\\networking\\packet_processing\\src\\main.cpp",
+  "file": "G:/networking/packet_processing/src/main.cpp",
+  "output": "CMakeFiles/PacketProcessingStack.dir/src/main.cpp.obj"
+},
+{
+  "directory": "G:/networking/packet_processing/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/PacketProcessingStack.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\PacketProcessingStack.dir\\src\\Packet.cpp.obj -c G:\\networking\\packet_processing\\src\\Packet.cpp",
+  "file": "G:/networking/packet_processing/src/Packet.cpp",
+  "output": "CMakeFiles/PacketProcessingStack.dir/src/Packet.cpp.obj"
+},
+{
+  "directory": "G:/networking/packet_processing/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/PacketProcessingStack.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\PacketProcessingStack.dir\\src\\Process.cpp.obj -c G:\\networking\\packet_processing\\src\\Process.cpp",
+  "file": "G:/networking/packet_processing/src/Process.cpp",
+  "output": "CMakeFiles/PacketProcessingStack.dir/src/Process.cpp.obj"
+}
+]
